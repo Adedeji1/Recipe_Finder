@@ -1,4 +1,4 @@
-# 🍽️ Recipe Finder Application
+# Recipe Finder Application
 
 A responsive and interactive Recipe Finder web application that allows users to search for meals, explore recipe details, filter results, and save favorite recipes for later. The app uses a public API and focuses on clean JavaScript, good UX, and modern CSS layouts.
 

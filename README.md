@@ -28,7 +28,7 @@ A responsive and interactive Recipe Finder web application that allows users to 
 1. Clone the repository
 
    ```bash
-   git clone https://github.com/your-username/recipe-finder.git
+   git clone https://github.com/Adedej1/recipe-finder.git
    ```
 
 2. Navigate into the project folder

@@ -40,13 +40,3 @@ A responsive and interactive Recipe Finder web application that allows users to 
 3. Open `index.html` in your browser
 
 *No additional setup required.*
-
-
-## Success Criteria Checklist
-
-* Clean and semantic HTML structure
-* Responsive design across screen sizes
-* Proper API integration with error handling
-* Advanced CSS Grid usage
-* Form validation with user feedback
-* Good UX with loading and empty states

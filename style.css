@@ -38,12 +38,23 @@ body {
   padding: 1.5rem 1rem;
 }
 
+.initial-state {
+  min-height: calc(100vh - 140px);
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+
+}
+
 form {
   display: flex;
   gap: 0.75rem;
   margin-bottom: 1rem;
 }
-
+.initial-state form {
+  max-width: 500px;
+  width: 100%;
+}
 input,
 select,
 button {

@@ -6,7 +6,7 @@
     <title>Recipe Finder</title>
     <link href="style.css" rel="stylesheet">
 </head>
-<body>
+<>
 
     <header>
         <h1>Recipe Finder</h1>
@@ -37,6 +37,18 @@
          <p id="status"></p>
 
          <section id="recipes" class="recipes-grid"></section>
-    </main>
+    </main>\
+    <div id="modal" class="modal hidden">
+    <div class="modal-content">
+      <button id="close-modal">×</button>
+      <div id="modal-body"></div>
+    </div>
+  </div>
+
+  <script src="js/api.js"></script>
+  <script src="js/storage.js"></script>
+  <script src="js/ui.js"></script>
+  <script src="js/app.js"></script>
+    
 </body>
 </html>

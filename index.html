@@ -3,9 +3,37 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>Recipe Finder</title>
 </head>
 <body>
-    
+
+    <header>
+        <h1>Recipe Finder</h1>
+    </header>
+
+    <main class="container">
+        <form id="search-form">
+            <input 
+                type="text"
+                id="search-input"
+                placeholder="search for a recipe"
+            />
+            <button>Submit</button>
+            <small id="form-error"></small>
+        </form>
+
+        <div class="filters">
+            <select id="category-filter">
+                <option value="">All Xategories</option>
+            </select>
+            <input type="text"
+                id="ingredient-filter"
+                placeholder="Filter by Ingredient"
+            />
+        </div>
+        
+        <!-- Loading and Error -->
+         
+    </main>
 </body>
 </html>
